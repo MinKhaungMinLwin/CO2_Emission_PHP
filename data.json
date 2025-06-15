@@ -1,0 +1,622 @@
+[
+  {
+    "meal_type": "beef",
+    "meal_kg": 2.0,
+    "electricity_kwh": 20.0,
+    "vehicle_type": "bus",
+    "distance_km": 30.0,
+    "plastic_kg": 1.0,
+    "total": 73.0,
+    "cluster": 2
+  },
+  {
+    "meal_type": "rice",
+    "meal_kg": 1.5,
+    "electricity_kwh": 18.0,
+    "vehicle_type": "electric",
+    "distance_km": 20.0,
+    "plastic_kg": 0.5,
+    "total": 20.05,
+    "cluster": 2
+  },
+  {
+    "meal_type": "chicken",
+    "meal_kg": 1.2,
+    "electricity_kwh": 35.0,
+    "vehicle_type": "train",
+    "distance_km": 10.0,
+    "plastic_kg": 0.3,
+    "total": 27.98,
+    "cluster": 2
+  },
+  {
+    "meal_type": "chicken",
+    "meal_kg": 1.2,
+    "electricity_kwh": 35.0,
+    "vehicle_type": "train",
+    "distance_km": 10.0,
+    "plastic_kg": 0.3,
+    "total": 27.98,
+    "cluster": 2
+  },
+  {
+    "meal_type": "chicken",
+    "meal_kg": 1.2,
+    "electricity_kwh": 35.0,
+    "vehicle_type": "train",
+    "distance_km": 10.0,
+    "plastic_kg": 0.3,
+    "total": 27.98,
+    "cluster": 2
+  },
+  {
+    "meal_type": "chicken",
+    "meal_kg": 1.2,
+    "electricity_kwh": 35.0,
+    "vehicle_type": "train",
+    "distance_km": 10.0,
+    "plastic_kg": 0.3,
+    "total": 27.98,
+    "cluster": 2
+  },
+  {
+    "meal_type": "vegetables",
+    "meal_kg": 1.2,
+    "electricity_kwh": 35.0,
+    "vehicle_type": "petrol",
+    "distance_km": 10.0,
+    "plastic_kg": 0.3,
+    "total": 24.2,
+    "cluster": 2
+  },
+  {
+    "meal_type": "vegetables",
+    "meal_kg": 0.2,
+    "electricity_kwh": 7.0,
+    "vehicle_type": "petrol",
+    "distance_km": 10.0,
+    "plastic_kg": 3.3,
+    "total": 26.2,
+    "cluster": 2
+  },
+  {
+    "meal_type": "chicken",
+    "meal_kg": 0.2,
+    "electricity_kwh": 7.0,
+    "vehicle_type": "bus",
+    "distance_km": 100.0,
+    "plastic_kg": 0.0,
+    "total": 14.88,
+    "cluster": 2
+  },
+  {
+    "meal_type": "beef",
+    "meal_kg": 3.0,
+    "electricity_kwh": 7.0,
+    "vehicle_type": "bus",
+    "distance_km": 100.0,
+    "plastic_kg": 0.0,
+    "total": 94.5,
+    "cluster": 2
+  },
+  {
+    "meal_type": "beef",
+    "meal_kg": 3.0,
+    "electricity_kwh": 7.0,
+    "vehicle_type": "bus",
+    "distance_km": 100.0,
+    "plastic_kg": 0.0,
+    "total": 94.5,
+    "cluster": 2
+  },
+  {
+    "meal_type": "beef",
+    "meal_kg": 3.0,
+    "electricity_kwh": 7.0,
+    "vehicle_type": "bus",
+    "distance_km": 100.0,
+    "plastic_kg": 0.0,
+    "total": 94.5,
+    "cluster": 2
+  },
+  {
+    "meal_type": "beef",
+    "meal_kg": 300.0,
+    "electricity_kwh": 7.0,
+    "vehicle_type": "bus",
+    "distance_km": 100.0,
+    "plastic_kg": 0.0,
+    "total": 8113.5,
+    "cluster": 1
+  },
+  {
+    "meal_type": "beef",
+    "meal_kg": 300.0,
+    "electricity_kwh": 7.0,
+    "vehicle_type": "bus",
+    "distance_km": 100.0,
+    "plastic_kg": 10.0,
+    "total": 8173.5,
+    "cluster": 1
+  },
+  {
+    "meal_type": "beef",
+    "meal_kg": 300.0,
+    "electricity_kwh": 7.0,
+    "vehicle_type": "diesel",
+    "distance_km": 100.0,
+    "plastic_kg": 10.0,
+    "total": 8193.5,
+    "cluster": 1
+  },
+  {
+    "meal_type": "beef",
+    "meal_kg": 300.0,
+    "electricity_kwh": 7000.0,
+    "vehicle_type": "diesel",
+    "distance_km": 100.0,
+    "plastic_kg": 10.0,
+    "total": 11690.0,
+    "cluster": 1
+  },
+  {
+    "meal_type": "chicken",
+    "meal_kg": 1.2,
+    "electricity_kwh": 3.0,
+    "vehicle_type": "petrol",
+    "distance_km": 10.0,
+    "plastic_kg": 0.3,
+    "total": 14.08,
+    "cluster": 2
+  },
+  {
+    "meal_type": "beef",
+    "meal_kg": 1300.0,
+    "electricity_kwh": 3.0,
+    "vehicle_type": "petrol",
+    "distance_km": 10.0,
+    "plastic_kg": 0.3,
+    "total": 35105.8,
+    "cluster": 1
+  },
+  {
+    "meal_type": "beef",
+    "meal_kg": 1.0,
+    "electricity_kwh": 3.0,
+    "vehicle_type": "petrol",
+    "distance_km": 10.0,
+    "plastic_kg": 10.0,
+    "total": 91.0,
+    "cluster": 2
+  },
+  {
+    "meal_type": "beef",
+    "meal_kg": 1.2,
+    "electricity_kwh": 35.0,
+    "vehicle_type": "petrol",
+    "distance_km": 10.0,
+    "plastic_kg": 0.3,
+    "total": 54.2,
+    "cluster": 2
+  },
+  {
+    "meal_type": "rice",
+    "meal_kg": 4.2,
+    "electricity_kwh": 35.0,
+    "vehicle_type": "petrol",
+    "distance_km": 1000.0,
+    "plastic_kg": 0.3,
+    "total": 280.64,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 3.0,
+    "electricity_kwh": 20.0,
+    "distance_km": 50.0,
+    "plastic_kg": 1.0,
+    "meal_type": "meat",
+    "vehicle_type": "car",
+    "total": 27.5,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 3.0,
+    "electricity_kwh": 20.0,
+    "distance_km": 50.0,
+    "plastic_kg": 1.0,
+    "meal_type": "meat",
+    "vehicle_type": "car",
+    "total": 27.5,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 0.0,
+    "meal_type": null,
+    "electricity_kwh": 0.0,
+    "plastic_kg": 0.0,
+    "distance_km": 0.0,
+    "vehicle_type": null,
+    "total": 0.0,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 1.0,
+    "meal_type": "meat",
+    "electricity_kwh": 2.0,
+    "plastic_kg": 2.0,
+    "distance_km": 1.0,
+    "vehicle_type": "car",
+    "total": 3.7,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 0.0,
+    "meal_type": null,
+    "electricity_kwh": 0.0,
+    "plastic_kg": 0.0,
+    "distance_km": 0.0,
+    "vehicle_type": null,
+    "total": 0.0,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 0.0,
+    "meal_type": null,
+    "electricity_kwh": 0.0,
+    "plastic_kg": 0.0,
+    "distance_km": 0.0,
+    "vehicle_type": null,
+    "total": 0.0,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 2.0,
+    "meal_type": "vegetarian",
+    "electricity_kwh": 2.0,
+    "plastic_kg": 2.0,
+    "distance_km": 2.0,
+    "vehicle_type": "motorcycle",
+    "total": 6.4,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 0.0,
+    "meal_type": null,
+    "electricity_kwh": 0.0,
+    "plastic_kg": 0.0,
+    "distance_km": 0.0,
+    "vehicle_type": null,
+    "total": 0.0,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 0.0,
+    "meal_type": null,
+    "electricity_kwh": 0.0,
+    "plastic_kg": 0.0,
+    "distance_km": 0.0,
+    "vehicle_type": null,
+    "total": 0.0,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 5.0,
+    "meal_type": "vegetarian",
+    "electricity_kwh": 3.0,
+    "plastic_kg": 5.0,
+    "distance_km": 5.0,
+    "vehicle_type": "car",
+    "total": 15.0,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 1.0,
+    "meal_type": "vegan",
+    "electricity_kwh": 1.0,
+    "plastic_kg": 1.0,
+    "distance_km": 1.0,
+    "vehicle_type": "bus",
+    "total": 3.1,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 2.0,
+    "meal_type": "meat",
+    "electricity_kwh": 1.0,
+    "plastic_kg": 1.0,
+    "distance_km": 9.0,
+    "vehicle_type": "bus",
+    "total": 6.4,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 54.0,
+    "meal_type": "meat",
+    "electricity_kwh": 232.0,
+    "plastic_kg": 23121.0,
+    "distance_km": 123.0,
+    "vehicle_type": "car",
+    "total": 275.6,
+    "cluster": 1
+  },
+  {
+    "meal_kg": 0.0,
+    "meal_type": null,
+    "electricity_kwh": 0.0,
+    "plastic_kg": 0.0,
+    "distance_km": 0.0,
+    "vehicle_type": null,
+    "total": 0.0,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 0.0,
+    "meal_type": null,
+    "electricity_kwh": 0.0,
+    "plastic_kg": 0.0,
+    "distance_km": 0.0,
+    "vehicle_type": null,
+    "total": 0.0,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 0.0,
+    "meal_type": null,
+    "electricity_kwh": 0.0,
+    "plastic_kg": 0.0,
+    "distance_km": 0.0,
+    "vehicle_type": null,
+    "total": 0.0,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 0.0,
+    "meal_type": null,
+    "electricity_kwh": 0.0,
+    "plastic_kg": 0.0,
+    "distance_km": 0.0,
+    "vehicle_type": null,
+    "total": 0.0,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 34.0,
+    "meal_type": "vegetarian",
+    "electricity_kwh": 34.0,
+    "plastic_kg": 45.0,
+    "distance_km": 6.0,
+    "vehicle_type": "motorcycle",
+    "total": 103.2,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 4.0,
+    "meal_type": "meat",
+    "electricity_kwh": 45.0,
+    "plastic_kg": 45.0,
+    "distance_km": 45.0,
+    "vehicle_type": "bus",
+    "total": 37.0,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 4.0,
+    "meal_type": "meat",
+    "electricity_kwh": 45.0,
+    "plastic_kg": 45.0,
+    "distance_km": 45.0,
+    "vehicle_type": "bus",
+    "total": 37.0,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 43.0,
+    "meal_type": "meat",
+    "electricity_kwh": 34.0,
+    "plastic_kg": 5.0,
+    "distance_km": 34.0,
+    "vehicle_type": "car",
+    "total": 131.3,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 23.0,
+    "meal_type": "vegan",
+    "electricity_kwh": 23.0,
+    "plastic_kg": 23.0,
+    "distance_km": 23.0,
+    "vehicle_type": "bus",
+    "total": 71.3,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 23.0,
+    "meal_type": "meat",
+    "electricity_kwh": 23.0,
+    "plastic_kg": 23.0,
+    "distance_km": 23.0,
+    "vehicle_type": "car",
+    "total": 73.6,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 23.0,
+    "meal_type": "meat",
+    "electricity_kwh": 23.0,
+    "plastic_kg": 23.0,
+    "distance_km": 23.0,
+    "vehicle_type": "car",
+    "total": 73.6,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 12.0,
+    "meal_type": "meat",
+    "electricity_kwh": 123.0,
+    "plastic_kg": 123.0,
+    "distance_km": 123.0,
+    "vehicle_type": "bus",
+    "total": 103.8,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 23.0,
+    "meal_type": "vegan",
+    "electricity_kwh": 23.0,
+    "plastic_kg": 23.0,
+    "distance_km": 23.0,
+    "vehicle_type": "bus",
+    "total": 71.3,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 12.0,
+    "meal_type": "meat",
+    "electricity_kwh": 32.0,
+    "plastic_kg": 12.0,
+    "distance_km": 12.0,
+    "vehicle_type": "car",
+    "total": 48.4,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 12.0,
+    "meal_type": "meat",
+    "electricity_kwh": 32.0,
+    "plastic_kg": 12.0,
+    "distance_km": 12.0,
+    "vehicle_type": "car",
+    "total": 48.4,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 12.0,
+    "meal_type": "meat",
+    "electricity_kwh": 12.0,
+    "plastic_kg": 12.0,
+    "distance_km": 12.0,
+    "vehicle_type": "car",
+    "total": 38.4,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 12.0,
+    "meal_type": "meat",
+    "electricity_kwh": 12.0,
+    "plastic_kg": 12.0,
+    "distance_km": 12.0,
+    "vehicle_type": "bus",
+    "total": 37.2,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 123.0,
+    "meal_type": "meat",
+    "electricity_kwh": 12.0,
+    "plastic_kg": 12.0,
+    "distance_km": 12.0,
+    "vehicle_type": "car",
+    "total": 315.9,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 3.0,
+    "meal_type": "meat",
+    "electricity_kwh": 12.0,
+    "plastic_kg": 12.0,
+    "distance_km": 12.0,
+    "vehicle_type": "car",
+    "total": 15.9,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 12.0,
+    "meal_type": "meat",
+    "electricity_kwh": 12.0,
+    "plastic_kg": 12.0,
+    "distance_km": 12.0,
+    "vehicle_type": "car",
+    "total": 38.4,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 23.0,
+    "meal_type": "meat",
+    "electricity_kwh": 1.0,
+    "plastic_kg": 1.0,
+    "distance_km": 1.0,
+    "vehicle_type": "car",
+    "total": 58.2,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 1.0,
+    "meal_type": "meat",
+    "electricity_kwh": 2.0,
+    "plastic_kg": 3.0,
+    "distance_km": 4.0,
+    "vehicle_type": "car",
+    "total": 4.3,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 12.0,
+    "meal_type": "meat",
+    "electricity_kwh": 12.0,
+    "plastic_kg": 12.0,
+    "distance_km": 1.0,
+    "vehicle_type": "car",
+    "total": 36.2,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 12.0,
+    "meal_type": "meat",
+    "electricity_kwh": 12.0,
+    "plastic_kg": 12.0,
+    "distance_km": 1.0,
+    "vehicle_type": "car",
+    "total": 36.2,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 12.0,
+    "meal_type": "meat",
+    "electricity_kwh": 12.0,
+    "plastic_kg": 12.0,
+    "distance_km": 1.0,
+    "vehicle_type": "car",
+    "total": 36.2,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 12.0,
+    "meal_type": "meat",
+    "electricity_kwh": 12.0,
+    "plastic_kg": 12.0,
+    "distance_km": 12.0,
+    "vehicle_type": "motorcycle",
+    "total": 38.4,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 12.0,
+    "meal_type": "meat",
+    "electricity_kwh": 21.0,
+    "plastic_kg": 12.0,
+    "distance_km": 12.0,
+    "vehicle_type": "motorcycle",
+    "total": 42.9,
+    "cluster": 2
+  },
+  {
+    "meal_kg": 33.0,
+    "meal_type": "meat",
+    "electricity_kwh": 33.0,
+    "plastic_kg": 33.0,
+    "distance_km": 33.0,
+    "vehicle_type": "bus",
+    "total": 102.3,
+    "cluster": 2
+  }
+]
