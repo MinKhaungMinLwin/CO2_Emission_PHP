@@ -74,6 +74,10 @@ Edit
 📈 Model Training (optional)
 If you want to retrain or update the model:
 
+## CMD
+php -S localhost:8000
+python3 app.py
+
 python
 Copy
 Edit
